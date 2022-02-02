@@ -1,0 +1,20 @@
+{
+  "files": {
+    "p1debuglog.txt": [
+      {
+        "id": "3dd8f390-4c0e-4c00-a4b4-295d83698f76",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "p1original.c": [
+      {
+        "id": "17c01f07-a879-44fa-8066-525c41840ade",
+        "line": 24,
+        "version": 6,
+        "index": 342
+      }
+    ]
+  }
+}
